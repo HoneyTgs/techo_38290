@@ -26,7 +26,7 @@ https://docs.google.com/spreadsheets/d/1GgXHqDqDSzAarV86ytkNyP1x5uan40ycBOp1fRcH
 https://i.gyazo.com/a2c20d7259e76c2b8861d470f78c2ab9.jpg
 
 # 画面遷移図
-作成中
+https://i.gyazo.com/1ff7290d340d69cccc1932a21ae6ed26.png
 
 # 開発環境
 Ruby on Rails
