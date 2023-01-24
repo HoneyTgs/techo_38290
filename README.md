@@ -35,6 +35,12 @@ https://i.gyazo.com/1ff7290d340d69cccc1932a21ae6ed26.png
 Ruby on Rails
 
 # 動画
-[画面収録 2023-01-24 23.59.30.zip](https://github.com/HoneyTgs/techo_38290/files/10491237/2023-01-24.23.59.30.zip)
+
+https://user-images.githubusercontent.com/112701355/214329965-2c33d37f-ad50-4f05-949a-d44af49c0845.mov
+
+https://user-images.githubusercontent.com/112701355/214330044-9f45e45c-3752-49a7-ad5c-67e039a141be.mov
+
+
+
 
 
