@@ -9,27 +9,27 @@ techo-app-38290
 # URL
 https://techo-app-38290.onrender.com
 
-# Basic認証
-ID     admin
-PASS   2222
-テストアカウント
-ID     eee@eee
-PASS   1111ty
+# テスト用アカウント
+Basic認証ID：   　　　　 admin
+Basic認証パスワード： 2222
+ID：     　 eee@eee
+パスワード： 1111ty
 
 # 利用方法
-ユーザー登録をし、予定の共有、コメント投稿ができる。
+ユーザー登録をし、予定の共有、コメント投稿ができます。
 
 # アプリケーションを作成した背景
-自分自身、予定は決まった段階でどこかにメモしておかないと後々忘れそうになってしまうから、それを解消できそうなアプリを作ろうと思った。
+自分自身、予定は決まった段階でどこかにメモしておかないと後々忘れそうになってしまうから、それを解消できそうなアプリを作ろうと思ったからです。
 
 # 洗い出した要件
 https://docs.google.com/spreadsheets/d/1GgXHqDqDSzAarV86ytkNyP1x5uan40ycBOp1fRcHLYk/edit#gid=982722306
 
 # データベース設計
-https://i.gyazo.com/a2c20d7259e76c2b8861d470f78c2ab9.jpg
+[erd.pdf](https://github.com/HoneyTgs/techo_38290/files/10498980/erd.pdf)
 
 # 画面遷移図
-https://i.gyazo.com/1ff7290d340d69cccc1932a21ae6ed26.png
+images.githubusercontent.com/112701355/214556226-b83ea758-ddcc-4871-ba65-27445ad0561d.png">
+
 
 # 開発環境
 Ruby on Rails
