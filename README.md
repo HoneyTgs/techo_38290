@@ -28,8 +28,7 @@ https://docs.google.com/spreadsheets/d/1GgXHqDqDSzAarV86ytkNyP1x5uan40ycBOp1fRcH
 [erd.pdf](https://github.com/HoneyTgs/techo_38290/files/10498980/erd.pdf)
 
 # 画面遷移図
-images.githubusercontent.com/112701355/214556226-b83ea758-ddcc-4871-ba65-27445ad0561d.png">
-
+<img width="476" alt="スクリーンショット 2023-01-20 22 05 41" src="https://user-images.githubusercontent.com/112701355/214556855-8e34c99d-038e-4539-8871-94d1224006f0.png">
 
 # 開発環境
 Ruby on Rails
