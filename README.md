@@ -10,10 +10,10 @@ techo-app-38290
 https://techo-app-38290.onrender.com
 
 # テスト用アカウント
-Basic認証ID：   　　　　 admin
-Basic認証パスワード： 2222
-ID：     　 eee@eee
-パスワード： 1111ty
+Basic認証ID：admin
+Basic認証パスワード：2222
+ID：eee@eee
+パスワード：1111ty
 
 # 利用方法
 ユーザー登録をし、予定の共有、コメント投稿ができます。
