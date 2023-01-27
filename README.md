@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1GgXHqDqDSzAarV86ytkNyP1x5uan40ycBOp1fRcH
 <img width="476" alt="スクリーンショット 2023-01-20 22 05 41" src="https://user-images.githubusercontent.com/112701355/214556855-8e34c99d-038e-4539-8871-94d1224006f0.png">
 
 # 開発環境
-Ruby on Rails
+Ruby on Rails　
 
 # 動画
 
